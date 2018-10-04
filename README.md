@@ -1,5 +1,6 @@
-OC_manager
-===========
+OC_manager Snapshot: May 17, 2018
+==================================
+
 
 Shiny app to operate apparatus of office chromatography.
 
